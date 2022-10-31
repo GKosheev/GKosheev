@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkosheev&label=Profile%20views&color=0e75b6&style=flat" alt="gkosheev" /> </p>
 
-- 🔭 I’m currently working on **opensource projects**
+- 🔭 I’m currently working on **portfolio projects**
 
-- 🌱 I’m currently learning **leetcode problems**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **Node.js & Express projects**
+<!--- - 👯 I’m looking to collaborate on **Node.js & Express projects** -->
 
 - 📫 How to reach me **gleb.koshcheev@gmail.com**
 
