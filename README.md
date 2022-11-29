@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-<!--- - 👯 I’m looking to collaborate on **Node.js & Express projects** -->
+- 🏆 My portfolio website **[glebkoshcheev.dev](https://www.glebkoshcheev.dev/)**
 
 - 📫 How to reach me **gleb.koshcheev@gmail.com**
 
