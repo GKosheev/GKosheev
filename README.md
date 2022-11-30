@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Gleb</h1>
-<h3 align="center">A passionate Software Engineer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gkosheev&label=Profile%20views&color=0e75b6&style=flat" alt="gkosheev" /> </p>
 
