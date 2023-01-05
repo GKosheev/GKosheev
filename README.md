@@ -40,7 +40,7 @@
 ## Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkosheev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
-[![Gleb Koshcheev GitHub stats](https://github-readme-stats.vercel.app/api?username=gkosheev)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Gleb Koshcheev GitHub stats](https://github-readme-stats.vercel.app/api?username=gkosheev)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gkosheev&" alt="gkosheev" /></p>
