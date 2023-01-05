@@ -9,9 +9,6 @@
 
 - 📫 How to reach me **gleb.koshcheev@gmail.com**
 
-## Connect with me:
- ![https://linkedin.com/in/gleb-koshcheev](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 ## Technologies:
 
 ### Web
