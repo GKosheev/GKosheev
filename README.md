@@ -2,11 +2,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gkosheev&label=Profile%20views&color=0e75b6&style=flat" alt="gkosheev" /> </p>
  <div align="center"> 
  
- 🌱 I’m currently learning **Flutter**
+**[glebkoshcheev.dev](https://www.glebkoshcheev.dev/)**
 
- 🏆 My portfolio website **[glebkoshcheev.dev](https://www.glebkoshcheev.dev/)**
-
- 📫 How to reach me **gleb.koshcheev@gmail.com**
  </div>
 
  ***
